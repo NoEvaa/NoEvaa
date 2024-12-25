@@ -1,6 +1,7 @@
 <h2 align="center">👋 Hi, I'm NoEvaa</h2>
 
-<h3 align="center">I'm a passionate developer with a keen interest in dynamic language, distributed system, quantitative investment, data science, machine learning, quantum computing, etc.</h3>
+I'm a passionate developer with a keen interest in dynamic language, distributed system, 
+quantitative investment, data science, machine learning, quantum computing, etc.
 
 ## Projects
 
