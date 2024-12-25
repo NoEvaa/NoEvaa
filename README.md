@@ -4,7 +4,7 @@
 
 ## Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/NoEvaa/Aystl)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/NoEvaa/AyMemMapping)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/NoEvaa/AyTest-Mini)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NoEvaa&repo=Aystl)](https://github.com/NoEvaa/Aystl)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NoEvaa&repo=AyMemMapping)](https://github.com/NoEvaa/AyMemMapping)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NoEvaa&repo=AyTest-Mini)](https://github.com/NoEvaa/AyTest-Mini)
 
